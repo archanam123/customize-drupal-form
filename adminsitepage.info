@@ -1,0 +1,4 @@
+name = Admin Site Page
+description = Customize Site form
+version = VERSION
+core = 7.x
